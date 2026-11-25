@@ -1,0 +1,11 @@
+{
+  "android": {
+    "x64": [
+      {
+        "pattern": "55 41 57 41 56 41 55 41 54 53 50 49 89 F? 4? 8B ?? 4? 8B 4? 30 4C 8B ?? ?? 0? 00 00 4D 85 ?? 74 ?? 4D 8B",
+        "retval": 0,
+        "note": "Dart 3.13.7 android_x64: giong pattern goc cua NVISO nhung noi long displacement cua lenh je (74 ??)"
+      }
+    ]
+  }
+}

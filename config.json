@@ -1,0 +1,12 @@
+{
+  "ProxyHostFromDevice": "10.0.2.2",
+  "BurpHost": "127.0.0.1",
+  "ProxyPort": 8080,
+  "FridaVersion": "",
+  "PythonWingetId": "Python.Python.3.12",
+  "BlockQuic": true,
+  "BlockIPv6": true,
+  "HookWaitSec": 90,
+  "TrafficWaitSec": 90,
+  "FlutterAlsoJavaHooks": false
+}

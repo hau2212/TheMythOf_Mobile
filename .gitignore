@@ -1,0 +1,11 @@
+# sinh ra khi chạy
+tools/
+logs/
+work/
+profiles/
+state.json
+# app và lib tải về
+apps/*
+!apps/README.md
+*.so
+__pycache__/

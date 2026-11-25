@@ -1,0 +1,7 @@
+# Giữ nguyên byte (UTF-8 BOM + CRLF) để Windows PowerShell 5.1 đọc đúng tiếng Việt
+*.ps1 -text
+*.cmd -text
+*.py text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.js text eol=lf
